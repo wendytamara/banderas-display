@@ -1,0 +1,66 @@
+
+div {
+  border: 1px solid black;
+  margin: 5px;
+  height: 100px;
+}
+
+.lab, .mm{
+  background-color: #FFBF00;
+}
+.tt{
+  background-color: black;
+  color: white;
+}
+
+.uno, .tres{
+  background-color: #FFBF00;
+  height: 160px;
+  width: 250px;
+}
+.dos{
+  background-color: black;
+  color: white;
+  height: 160px;
+  width: 250px;
+}
+
+.one, .three{
+  background-color: #FFBF00;
+  height: 160px;
+  width: 250px;
+  display: inline-block;
+
+}
+
+.two{
+  background-color: black;
+  color: white;
+  height: 160px;
+  width: 250px;
+  display: inline-block;
+}
+.first {
+  background-color: #FFBF00;
+  height: 40px;
+  width: 100px;
+  text-align: center;
+  display: inline-block;
+}
+
+.second{
+  background-color: black;
+  color: white;
+  height: 40px;
+  width: 30px;
+  text-align: center;
+  display: inline-block;
+}
+
+.third{
+  background-color: #FFBF00;
+  height: 40px;
+  width: 150px;
+  text-align: center;
+  display: inline-block;
+}
